@@ -20,7 +20,7 @@ using namespace std;
 // HANDLE console là một đối tượng để quản lý hệ thống console.
 HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE); // là lệnh gán giá trị đối tượng console vào biến console.
 COORD CursorPosition;							  // COORD CursorPosition là một kiểu dữ liệu để xác định vị trí con trỏ trong hệ thống console.
-
+//win 
 int pipePos[3];	 // Mảng chứa vị trí đường ống trong game
 int gapPos[3];	 // Mảng chứa vị trí khoảng trống giữa cặp đường ống
 int pipeFlag[3]; // Mảng chứa trạng thái của cặp đường ống
