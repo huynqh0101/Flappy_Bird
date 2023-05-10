@@ -24,7 +24,7 @@ COORD CursorPosition;							  // COORD CursorPosition là một kiểu dữ li�
 int pipePos[3];	 // Mảng chứa vị trí đường ống trong game
 int gapPos[3];	 // Mảng chứa vị trí khoảng trống giữa cặp đường ống
 int pipeFlag[3]; // Mảng chứa trạng thái của cặp đường ống
- char bird[2][6] = {'/', '-', '-', char(149), '\\', ' ',
+char bird[2][6] = {'/', '-', '-', char(149), '\\', ' ',
  				   '|', '_', '_', '_', '_', '>'};
 //char bird[3][6] = {' ',',','_','_',' ',' ',
                    //'/', ' ', '_', char(149), '\\', ' ',
