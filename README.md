@@ -1,30 +1,44 @@
 # Flappy Bird
+---
 
 ##Giới thiệu
+---
+Game được viết bởi ngôn ngữ `C++` và sử dụng thu viện đồ họa `console`.
 
-Game được viết bởi ngôn ngữ `C++`
+![example](anh1.png)
 
 ##Mục tiêu
-
+---
 `Nhảy` qua các chướng ngại vật sao cho được số điểm cao nhất.
 
-//hình ảnh
+![example](anh2.png)
 
 ## Cách chơi
+---
+1. Dùng phím `Space` để nhảy.
 
-Dùng phím `Space` để nhảy.
+2. Nếu để chú chim rơi suống đất hoặc bị va chạm  với thành ống thì bạn sẽ thua
 
-##Cài đặt
+![example](anh3.png)
 
-Tải file `Zip` và giải nén.
+##Cách cài đặt (ở hướng dẫn này sử dụng visual studio code trong windows)
+---
+1. Tải file `Zip` và giải nén.
+![example](anh4.png)
 
-//Hình ảnh
+2. Sau đó vào Source.
 
-Sau đó vào Source.
-//Hình ảnh
+![example](anh5.png)
 
-Rồi chọn Connect.exe mà chơi thôi.
+3. Rồi chọn game1.exe mà chơi thôi.
 
+![example](anh6.png)
+
+
+
+
+
+>>Chúc bạn có một trải nghiệm với game `Flappy Bird` tuyệt vời nhất :) :) :)
 
 
 
