@@ -1,13 +1,13 @@
 # Flappy Bird
 ---
 
-##Giới thiệu
+## Giới thiệu
 ---
 Game được viết bởi ngôn ngữ `C++` và sử dụng thu viện đồ họa `console`.
 
 ![example](anh1.png)
 
-##Mục tiêu
+## Mục tiêu
 ---
 `Nhảy` qua các chướng ngại vật sao cho được số điểm cao nhất.
 
