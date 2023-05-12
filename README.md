@@ -38,7 +38,7 @@ Game được viết bởi ngôn ngữ `C++` và sử dụng thu viện đồ h�
 
 
 
->>Chúc bạn có một trải nghiệm với game `Flappy Bird` tuyệt vời nhất :) :) :)
+Chúc bạn có một trải nghiệm với game `Flappy Bird` tuyệt vời nhất :) :) :)
 
 
 
