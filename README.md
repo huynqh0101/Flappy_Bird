@@ -33,10 +33,8 @@ Game được viết bởi ngôn ngữ `C++` và sử dụng thu viện đồ h�
 3. Rồi chọn game1.exe mà chơi thôi.
 
 ![example](anh6.png)
-
-
-
-
+---
+---
 
 Chúc bạn có một trải nghiệm với game `Flappy Bird` tuyệt vời nhất.
 
