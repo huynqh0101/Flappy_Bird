@@ -21,7 +21,7 @@ Game được viết bởi ngôn ngữ `C++` và sử dụng thu viện đồ h�
 
 ![example](anh3.png)
 
-##Cách cài đặt (ở hướng dẫn này sử dụng visual studio code trong windows)
+## Cách cài đặt (ở hướng dẫn này sử dụng visual studio code trong windows)
 ---
 1. Tải file `Zip` và giải nén.
 ![example](anh4.png)
