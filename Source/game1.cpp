@@ -477,7 +477,7 @@ int main()
 	{
 		system("cls");
 		daw_menu(30, 11, 60, 12, 3);
-		//voi_start();
+		voi_start();
 		char op = getche();
 
 		if (op == '1')
